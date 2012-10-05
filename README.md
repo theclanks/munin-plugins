@@ -1,4 +1,9 @@
-munin-plugins
+Munin Plugins
 =============
 
-munin-plugins
+Some plugins for Munin.
+
+
+* Asterisk 1.8 plugins
+
+
